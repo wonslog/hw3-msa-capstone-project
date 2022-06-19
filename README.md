@@ -97,7 +97,7 @@
 * <a href="https://www.msaez.io/#/" target="_blank">Brain Storming</a>
   + 팀별로 주제 선정 및 이벤트 스토밍 진행
 * GitHub : [https://github.com/wonslog/hw3-msa-capstone-project]
-* <a href="https://gitpod.io/#/https://github.com/kihoon-yang/msa-capstone-project" target="_blank">GitPod</a>
+* <a href="https://gitpod.io/#/https://github.com/wonslog/hw3-msa-capstone-project" target="_blank">GitPod</a>
   + Github 계정 및 Repositoy(public) 준비 ( **for FORK** )
   + gitpod.io/#/{Github-Repository-URL}
   + Collaboration & Sharing
@@ -105,7 +105,7 @@
       - 팀장 / 팀원 : gitpod.io > Settings > Integrations > GitHub > Edit Permissions > Public_repo Check ;  GitPod - GitHub 권한설정
 * <a href="https://794003312682.signin.aws.amazon.com/console">AWS</a> (*약 15~20분 소요*)
   + 계정정보(IAM)메일 발송
-  + Region-Code : `ca-central-1`
+  + Region-Code : 메일 내 Region 
   + Cluster-Name : Account-Id
   + Image-Repository-Name : Account-Id
 
