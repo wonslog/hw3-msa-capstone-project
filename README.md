@@ -105,7 +105,7 @@
       - 팀장 / 팀원 : gitpod.io > Settings > Integrations > GitHub > Edit Permissions > Public_repo Check ;  GitPod - GitHub 권한설정
 * <a href="https://794003312682.signin.aws.amazon.com/console">AWS</a> (*약 15~20분 소요*)
   + 계정정보(IAM)메일 발송
-  + Region-Code : `ca-central-1`
+  + Region-Code : 각 Region 
   + Cluster-Name : Account-Id
   + Image-Repository-Name : Account-Id
 
